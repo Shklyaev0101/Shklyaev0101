@@ -37,11 +37,10 @@
 
 <!-- Статистика профиля -->
 ## 📊 GitHub Статистика
-<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shklyaev0101&show_icons=true&theme=radical)" />
-</div>
-<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shklyaev0101&layout=compact&theme=radical)
-</div>
+
 <!-- Весёлая гифка -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" align="right">
